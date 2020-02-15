@@ -1,4 +1,5 @@
 score = input("Enter Score: ")
+
 try:
     float(score)
 except:
