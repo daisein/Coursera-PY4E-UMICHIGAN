@@ -1,17 +1,7 @@
-# OSSU
+# Python for everybody
 
-# Intro CS-Requirements
+This is the archive for my work for the specialization
 
-# Coursera-PY4E-UMICHIGAN
+"This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own applications for data retrieval, processing, and visualization."
 
-
-
-#git init
-
-#git add -A
-
-#git commit -m 'Added my project'
-
-#git remote add origin git@github.com:scotch-io/my-new-project.git
-
-#git push -u -f origin master
+https://www.coursera.org/specializations/python
